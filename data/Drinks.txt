@@ -1,0 +1,9 @@
+Tea Mix: tea, sugar, water
+Mint Tea: mint, water, sugar
+Milk Shake: milk, sugar, ice
+Fruit Juice: apple, orange, sugar
+Lemon Drink: lemon, sugar, water
+Choco Milk: milk, cocoa, sugar
+Banana Shake: banana, milk, sugar
+Coffee Cup: coffee, sugar, water
+espresso: coffee, sugar, water
