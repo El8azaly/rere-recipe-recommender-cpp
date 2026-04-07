@@ -26,7 +26,7 @@ The application helps users manage recipes, maintain ingredient inventory, and r
 
 ## How to Run
 ```bash
-g++ -std=c++17 -o RERE main.cpp
+g++ -std=c++17 -o RERE RERE.cpp
 ./RERE
 ```
 
