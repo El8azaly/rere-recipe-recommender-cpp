@@ -1,0 +1,8 @@
+Fruit Cream: cream, banana, berry, honey
+Choco Cup: milk, cocoa, sugar, butter
+Milk Pudding: milk, sugar, starch, vanilla
+Apple Bake: apple, sugar, butter, cinnamon
+Sweet Toast: bread, sugar, butter, honey
+Choco Ball: cocoa, biscuit, milk, sugar
+Honey Cake: flour, sugar, honey, egg
+Vanilla Cake: Vanilla Extract, Flour, Milk, Eggs, Baking Poweder
