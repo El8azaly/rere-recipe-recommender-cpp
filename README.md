@@ -31,10 +31,9 @@ g++ -std=c++17 -o RERE main.cpp
 ```
 
 ## Project Structure
-- `main.cpp` → source code
+- `RERE.cpp` → source code
 - `data/` → recipe and inventory files
-- `documentation/` → project documentation
-- `screenshots/` → program screenshots
+- `rere_documentation.pdf` → project documentation
 
 ## Skills Demonstrated
 This project demonstrates strong foundations in:
